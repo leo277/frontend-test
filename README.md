@@ -1,17 +1,14 @@
 Yale-NUS College IT - Front-End Short Test
 ==========================================
 
-Howdy! Welcome to the Yale-NUS College IT front-end short test. Thank you for your interest in working with us. We would like you to complete a short test.  
-
-
 ###Test description:
-The objective of this test is to have you complete a short front-end task. This will help 
-us gauge your understanding of frontend engineering and let us know if you are ready to take our long test. Please use 
+
+The objective of this test is to have you complete a short front-end task. Please use 
 any industry standards, best practices, performance tips and 
-code style that you support. We are looking for engineers with varying skill levels so do your best.
-Thank you for taking the time to take our test.
+code style that you support. 
 
 ###Requirements:
+
 0. All computation must take place on the client. Sorry no posting to the server, we want to see your
    front end skills.
 
@@ -28,9 +25,7 @@ Thank you for taking the time to take our test.
    a. submit a pull request
    b. then send an email with the subject line "Front-end short test" to Yale-NUS DevOps <yncdevops@groups.nus.edu.sg>. Make sure to include your resume and a link to the pull request. 
 
-There is a time and place for javascript frameworks. This might not be it. We want to see your javascript skills so we 
-would like to see your solution be done in vanilla javascript, jQuery or a similar javascript library. That being said 
-if you feel strongly that this problem needs a framework by all means use one and tell us why.
+We want to see your solution be done in javascript, jQuery or a similar javascript library. That being said if you feel strongly that this problem needs a framework by all means use one and tell us why and the advantages of using it.
 
 ###Example:
 Check out the GIF below to see a working example of what a finished test might act like. 
