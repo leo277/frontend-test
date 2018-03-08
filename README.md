@@ -15,7 +15,7 @@ The objective of this test is to have you complete a short front-end task. Pleas
 
 4. For each input value prepended, concatenate the `second` of the current browser time (e.g. 55 secs) to the input value.
 
-5. Once you finish coding, please inform HR that you have completed the test
+5. Once you finish coding, please inform HR that you have completed the test along with the link to your forked repository.
 
 We want to see your solution be done in JavaScript, jQuery or a similar JavaScript library. That being said if you feel strongly that this problem needs a framework by all means use one and tell us why and the advantages of using it.
 
