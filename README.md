@@ -1,11 +1,11 @@
 Yale-NUS College IT - Front-End Short Test
 ==========================================
 
-## Test description:
+## Test description
 
 You will need to complete a short front-end task in this test. **Please use any industry standards, best practices, performance tips and code style that you support.** 
 
-## Requirements:
+## Requirements
 
 1. All computation must take place on the client. Sorry no posting to the server, we want to see your front end skills.
 
@@ -19,7 +19,7 @@ You will need to complete a short front-end task in this test. **Please use any 
 
 We want to see your solution be done in JavaScript, jQuery or a similar JavaScript library. That being said if you feel strongly that this problem needs a framework by all means use one and tell us why and the advantages of using it.
 
-## Example:
+## Example
 
 Check out the GIF below to see a working example of what a finished test might act like. 
 
