@@ -18,7 +18,7 @@ code style that you support.
    prepends the contents of the from `<input type="text" name="post" placeholder="thoughts?"/>` 
    to `<div id="page">`. 
 
-3. For each input value prepended, concatenate the second of the current browser date to 
+3. For each input value prepended, concatenate the `second` of the current browser date to 
    the input value.
 
 4. Once you finish coding, please
