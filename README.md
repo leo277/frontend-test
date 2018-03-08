@@ -27,7 +27,8 @@ code style that you support.
 
 We want to see your solution be done in javascript, jQuery or a similar javascript library. That being said if you feel strongly that this problem needs a framework by all means use one and tell us why and the advantages of using it.
 
-###Example:
+**Example:**
+
 Check out the GIF below to see a working example of what a finished test might act like. 
 
 ![](steps.gif)
