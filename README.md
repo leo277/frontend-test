@@ -1,13 +1,13 @@
 Yale-NUS College IT - Front-End Short Test
 ==========================================
 
-###Test description:
+**Test description:**
 
 The objective of this test is to have you complete a short front-end task. Please use 
 any industry standards, best practices, performance tips and 
 code style that you support. 
 
-###Requirements:
+**Requirements:**
 
 0. All computation must take place on the client. Sorry no posting to the server, we want to see your
    front end skills.
